@@ -1,5 +1,5 @@
 # ChatApp-Project
-## By Joel
+By Joel Meza
 #### Software Requirements:
 🚀 Build/Deploy - Chatbox with Authentication using Firebase Google Platform Services 
 #### Demonstration:
